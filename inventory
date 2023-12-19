@@ -1,5 +1,5 @@
-192.168.1.181
-192.168.1.182
-192.168.1.183
-192.168.1.171
-192.168.1.185
+192.168.1.181 apache_package=apache2 php_package=libapache2-mod-php
+192.168.1.182 apache_package=apache2 php_package=libapache2-mod-php
+192.168.1.183 apache_package=apache2 php_package=libapache2-mod-php
+192.168.1.171 apache_package=apache2 php_package=libapache2-mod-php
+192.168.1.185 apache_package=httpd php_package=php
